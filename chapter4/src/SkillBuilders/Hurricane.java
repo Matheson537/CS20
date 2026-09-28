@@ -13,6 +13,8 @@ public class Hurricane
 				System.out.println("Enter the wind speed of your hurricane in Miles Per Hour: ");
 				speed = input.nextInt();
 		
+				
+				//the code determines which category the wind speed is
 				if (speed <= 95)
 				System.out.println("You have a category 1 Hurricane: 14-95mph or 64-82kt or 119-153km/hr");
 				
