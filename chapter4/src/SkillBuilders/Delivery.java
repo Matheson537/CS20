@@ -33,9 +33,11 @@ public class Delivery
 		else if (height > 10)
 		System.out.println("Reject package too big.");
 		
-		else if (length <= 10)
+		else if (length <= 10) 
 		System.out.println("Accept.");
 		
+	//Close input
+		input.close();
 		// TODO Auto-generated method stub
 
 	}
