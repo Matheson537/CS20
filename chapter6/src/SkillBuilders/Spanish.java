@@ -17,47 +17,47 @@ public class Spanish
 			  
 		   }
 		   
-		   if (choice == 2) {
+		   else if (choice == 2) {
 			   System.out.println("2 dos");
 			  
 		   }
 		   
-		   if (choice == 3) {
+		   else if (choice == 3) {
 			   System.out.println("3 tres");
 			  
 		   }
 		   
-		   if (choice == 4) {
+		   else if (choice == 4) {
 			   System.out.println("4 cuatro");
 			  
 		   }
 		   
-		   if (choice == 5) {
+		   else if (choice == 5) {
 			   System.out.println("5 cinco");
 			  
 		   }
 		   
-		   if (choice == 6) {
+		   else if (choice == 6) {
 			   System.out.println("6 seis");
 			  
 		   }
 		   
-		   if (choice == 7) {
+		   else if (choice == 7) {
 			   System.out.println("7 siete");
 			  
 		   }
 		   
-		   if (choice == 8) {
+		   else if (choice == 8) {
 			   System.out.println("8 ocho");
 			  
 		   }
 		   
-		   if (choice == 9) {
+		   else if (choice == 9) {
 			   System.out.println("9 nueve");
 			  
 		   }
 		   
-		   if (choice == 10) {
+		   else if (choice == 10) {
 			   System.out.println("10 diez");
 			  
 		   }
