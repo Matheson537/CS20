@@ -30,14 +30,18 @@ public class Home
 	String Roof = addroof(shingles, shingle);
 	System.out.println(Roof);
 	
+	//define variables
 	int Wall = 0;
 	int Walls = 0;
+	
 	//define Base and set it equal to addbase and display the base
 	String Base = addbase(Wall, Walls);
 	System.out.println(Base);
 	
+	//define variables
 	int Walkway = 0;
 	int Walkway1 = 0;
+	
 	//define Walk and set it equal to addwalk and display the walk
 	String Walk = addwalk(Walkway, Walkway1);
 	System.out.println(Walk);
